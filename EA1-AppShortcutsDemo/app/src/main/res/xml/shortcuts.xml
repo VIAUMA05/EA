@@ -8,7 +8,7 @@
         android:shortcutShortLabel="@string/app_name">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass=".MainActivity"
+            android:targetClass="hu.bme.aut.android.appshortcutsdemo.MainActivity"
             android:targetPackage="hu.bme.aut.android.appshortcutsdemo">
         </intent>
         <categories android:name="android.shortcut.conversation" />
