@@ -13,5 +13,5 @@ Előadáshoz tartozó példakódok.
 * [Architecture Components - ViewModel demo](EA2-WeatherDemo_ArchComponents)
 * [Viewpager 2 demo](EA2-ViewPagerTwoDemo)
 * [Search and SwipeToRefresh demo](EA2-KotlinShoppingList)
-* [Jetpack Compose demo](EA2-JetpackComposeDemo)
+* [Jetpack Compose demo](EA2-JetPackComposeDemo)
 
