@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PoseDetection</string>
+    <string name="squat_channel_name">Squats</string>
+    <string name="squat_channel_description">Let\'s see how do you perform with squats?</string>
+    <string name="handsup_channel_name">Raising hands</string>
+    <string name="handsup_channel_description">Let\'s see how do you perform with raising your hands?</string>
+    <string name="squat_noti_title">Making some squats!</string>
+    <string name="squat_noti_text">Counting your performance</string>
+    <string name="handsup_noti_title">Raising your hands!</string>
+    <string name="handsup_noti_text">Counting your performance</string>
+    <string name="take_photo">Take Photo</string>
+</resources>

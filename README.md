@@ -15,3 +15,6 @@ Előadáshoz tartozó példakódok.
 * [Search and SwipeToRefresh demo](EA2-KotlinShoppingList)
 * [Jetpack Compose demo](EA2-JetPackComposeDemo)
 
+## 3. és 4.  Előadás
+* [SchoolCaller: animációk](EA3-4-SchoolCaller)
+* [PoseDetection: MediaPlayer, Notification, CameraX, ML Kit](EA3-4-PoseDetection)
