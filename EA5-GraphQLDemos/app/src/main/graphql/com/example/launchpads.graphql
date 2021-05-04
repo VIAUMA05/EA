@@ -1,0 +1,8 @@
+query LaunchPadsQuery {
+    launchpads {
+        vehicles_launched {
+            id
+        }
+        name
+    }
+}

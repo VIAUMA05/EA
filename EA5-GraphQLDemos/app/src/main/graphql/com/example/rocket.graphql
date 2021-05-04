@@ -1,0 +1,9 @@
+query RocketQuery($id: ID!) {
+    rocket(id: $id) {
+        id
+        name
+        description
+        first_flight
+        cost_per_launch
+    }
+}

@@ -1,0 +1,7 @@
+query RocketsQuery {
+    rockets(limit: 10) {
+        id
+        name
+        description
+    }
+}

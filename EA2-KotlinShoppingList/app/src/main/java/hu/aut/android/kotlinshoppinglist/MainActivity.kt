@@ -118,7 +118,6 @@ class MainActivity : AppCompatActivity(), ShoppingItemDialog.ShoppingItemHandler
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
-
         val searchItem: MenuItem? = menu?.findItem(R.id.action_search)
         searchView = searchItem?.actionView as SearchView
         searchView?.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
@@ -138,14 +137,9 @@ class MainActivity : AppCompatActivity(), ShoppingItemDialog.ShoppingItemHandler
                             adapter.submitList(items)
                         })
                 }
-
                 return true
             }
-
         })
-
-
-
         return super.onCreateOptionsMenu(menu)
     }
 }
